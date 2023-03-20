@@ -1,0 +1,21 @@
+.card-now {
+  text-align: center;
+  margin: 10px auto;
+  padding: 20px;
+  background-color: #ace4e0;
+  width: 20%;
+  max-width: 100%;
+  border-radius: 20%;
+  box-shadow: 10px 5px 5px rgba(116, 211, 205, 0.5);
+}
+#weather-icon {
+  width: 30%;
+}
+.btn-primary-location {
+  margin: 3px;
+  height: 35px;
+  width: 110px;
+  background: rgba(116, 211, 205);
+  color: black;
+  border-color: #ace4e0;
+}
